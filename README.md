@@ -1,4 +1,3 @@
-
 # YouTube Subtitler - OpenAI SDK Agent
 
 A Python-based OpenAI SDK Agent for automated YouTube video subtitle generation and burning. This agent fetches transcripts, translates or edits them, and burns the subtitles into the video file.
